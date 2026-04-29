@@ -33,7 +33,7 @@ Other: YAML, dotenv
 └── app (Streamlit UI)
 ⚙️ Setup Instructions
 1. Clone Repository
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/amardeep112345/SQL_LLM_AI.git
 cd your-repo-name
 2. Create Virtual Environment
 python -m venv venv
