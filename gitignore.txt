@@ -1,0 +1,9 @@
+# Environments
+.env
+.venv
+llmsql/
+
+__pycache__/
+test.py 
+test1.py
+app.log
